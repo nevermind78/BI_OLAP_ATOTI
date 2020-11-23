@@ -1,7 +1,11 @@
 traitlets>=4.3.1
+python >= 3.7
+jdk >= 11
+node.js >= 10
 ipython
 pandas
 vdom
 jupyterlab_launcher>=0.5.0
 JupyterLab >= 2.1
 atoti
+graphviz
