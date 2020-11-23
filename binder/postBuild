@@ -2,4 +2,4 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @atoti/jupyterlab-extension jupyterlab-drawio
+jupyter lab build --dev-build False --minimize True
