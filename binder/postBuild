@@ -1,1 +1,5 @@
-jupyter labextension install @atoti/jupyterlab-extension
+#!/bin/bash
+
+# Install a JupyterLab extension for demonstration purposes
+
+NODE_OPTIONS=--max-old-space-size=4096 jupyter labextension install @atoti/jupyterlab-extension
