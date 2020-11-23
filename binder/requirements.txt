@@ -6,4 +6,3 @@ JupyterLab >= 2.1
 atoti
 graphviz
 nodejs
-openjdk
