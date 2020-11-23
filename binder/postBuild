@@ -1,1 +1,1 @@
-NODE_OPTIONS=--max-old-space-size=1024 jupyter labextension install @atoti/jupyterlab-extension
+jupyter labextension install --minimize=False @atoti/jupyterlab-extension
