@@ -3,4 +3,4 @@
 
 # Install a JupyterLab extension for demonstration purposes
 jupyter lab build --dev-build False --minimize False
-jupyter labextension install @atoti/jupyterlab-extension
+
