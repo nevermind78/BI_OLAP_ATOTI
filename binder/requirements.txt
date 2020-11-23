@@ -4,4 +4,4 @@ pandas
 vdom
 jupyterlab_launcher>=0.5.0
 JupyterLab >= 2.1
-pip install atoti
+atoti
