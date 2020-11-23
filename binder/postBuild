@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+# Install a JupyterLab extension for demonstration purposes
+jupyter labextension install @atoti/jupyterlab-extension jupyterlab-drawio
